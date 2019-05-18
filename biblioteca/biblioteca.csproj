@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{06328EF0-2215-4E7D-8DE5-333F86A171B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>biblioteca</RootNamespace>
+    <AssemblyName>biblioteca</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\Desktop\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cadastroAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroAluno.Designer.cs">
+      <DependentUpon>cadastroAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastroLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroLivros.Designer.cs">
+      <DependentUpon>cadastroLivros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listar.Designer.cs">
+      <DependentUpon>listar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pesquisar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pesquisar.Designer.cs">
+      <DependentUpon>pesquisar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelaAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaAdm.Designer.cs">
+      <DependentUpon>TelaAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaSplash.Designer.cs">
+      <DependentUpon>TelaSplash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cadastroAluno.resx">
+      <DependentUpon>cadastroAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastroLivros.resx">
+      <DependentUpon>cadastroLivros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listar.resx">
+      <DependentUpon>listar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pesquisar.resx">
+      <DependentUpon>pesquisar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TelaAdm.resx">
+      <DependentUpon>TelaAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaSplash.resx">
+      <DependentUpon>TelaSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Biblioteca-Ativa-2019-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bibioteca1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Biblioteca-Viva_logo_site_1505141800.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\642389_administration_512x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busto-de-homem_318-10816.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correct-2214020_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carregando_app.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajudaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuracoess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_511_student__notes_books__student_notes_4212903.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-adicionar-usuário-masculino-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscadorr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-icons-80620.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livro1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\biblioteca1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\biblioteca2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editada2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livros-gratis-liev-tolstoi-noticias-jpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livros-indispensaveis-para-o-investidor-em-2019-770x478.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livros-indispensaveis-para-o-investidor-em-2019-770x4781.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livros-gratis-liev-tolstoi-noticias-jpg1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

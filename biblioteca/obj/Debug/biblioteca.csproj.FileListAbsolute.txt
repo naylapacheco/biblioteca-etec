@@ -1,0 +1,90 @@
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\bin\Debug\biblioteca.exe.config
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\bin\Debug\MySql.Data.dll
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\bin\Debug\MySql.Data.xml
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.csprojAssemblyReference.cache
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.Form1.resources
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.Properties.Resources.resources
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.GenerateResource.cache
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CopyComplete
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.exe
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.pdb
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.TelaAdm.resources
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.TelaSplash.resources
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.menu.resources
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.cadastroAluno.resources
+c:\users\positivo pro\source\repos\biblioteca\biblioteca\obj\Debug\biblioteca.listar.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\bin\Debug\biblioteca.exe.config
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\bin\Debug\MySql.Data.xml
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.csprojAssemblyReference.cache
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.cadastroAluno.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.Form1.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.listar.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.menu.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.Properties.Resources.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.TelaAdm.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.TelaSplash.resources
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.GenerateResource.cache
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CopyComplete
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.exe
+D:\Nova pasta\Drive\3°semestre\biblioteca\biblioteca\obj\Debug\biblioteca.pdb
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.csprojAssemblyReference.cache
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.cadastroAluno.resources
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.Form1.resources
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.listar.resources
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.menu.resources
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.Properties.Resources.resources
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.TelaAdm.resources
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.TelaSplash.resources
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.GenerateResource.cache
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.exe
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.pdb
+C:\Users\532963167\Desktop\biblioteca\biblioteca\bin\Debug\biblioteca.exe.config
+C:\Users\532963167\Desktop\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+C:\Users\532963167\Desktop\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\532963167\Desktop\biblioteca\biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\532963167\Desktop\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.CopyComplete
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\bin\Debug\biblioteca.exe.config
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\bin\Debug\biblioteca.exe
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.csprojAssemblyReference.cache
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.cadastroAluno.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.cadastroLivros.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.Form1.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.listar.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.menu.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.pesquisar.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.Properties.Resources.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.TelaAdm.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.TelaSplash.resources
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.csproj.GenerateResource.cache
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.csproj.CopyComplete
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.exe
+C:\Users\V8360317\Desktop\biblioteca1\biblioteca\obj\Debug\biblioteca.pdb
+H:\Nova pasta\bibliotecaVs2\biblioteca\bin\Debug\biblioteca.exe.config
+H:\Nova pasta\bibliotecaVs2\biblioteca\bin\Debug\biblioteca.exe
+H:\Nova pasta\bibliotecaVs2\biblioteca\bin\Debug\biblioteca.pdb
+H:\Nova pasta\bibliotecaVs2\biblioteca\bin\Debug\MySql.Data.xml
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.csprojAssemblyReference.cache
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.cadastroAluno.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.cadastroLivros.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.Form1.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.listar.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.menu.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.pesquisar.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.Properties.Resources.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.TelaAdm.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.TelaSplash.resources
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.csproj.GenerateResource.cache
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.csproj.CopyComplete
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.exe
+H:\Nova pasta\bibliotecaVs2\biblioteca\obj\Debug\biblioteca.pdb
